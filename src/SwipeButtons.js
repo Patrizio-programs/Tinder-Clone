@@ -1,7 +1,7 @@
 import "./SwipeButtons.css";
 import ReplayIcon from "@material-ui/icons/Replay";
 import CloseIcon from "@material-ui/icons/Close";
-import IconButton from "@material-ui/icons/IconButton";
+import IconButton from "@material-ui/core/IconButton";
 
 function SwipeButton() {
   return (
